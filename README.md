@@ -25,6 +25,7 @@
 </details>
 
 
+<details>
 <summary> Next Thing </summary>  
 </br>
 
