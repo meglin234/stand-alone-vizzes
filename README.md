@@ -15,7 +15,20 @@
 <summary> DeBois Recreation </summary>  
 </br>
 
-[Recreation](https://github.com/meglin234/stand-alone-vizzes/tree/main/DeBois_Recreation) of DeBois' original "Comparative Increase of White and Colored Population of Georgia" visualization using ggplot in R. 
+[Recreation](https://github.com/meglin234/stand-alone-vizzes/tree/main/DeBois_Recreation) of W. E. B. DeBois' original "Comparative Increase of White and Colored Population of Georgia" visualization using ggplot in R. 
+
+<p align="center">
+  <img src="DeBois_Recreation/DeBois_Original.png" width="49%" title="Original">
+  <img src="DeBois_Recreation/DeBois_Recreation.png" width="49%" alt="Recreation">
+</p>
+
+</details>
+
+
+<summary> Next Thing </summary>  
+</br>
+
+[link](https://github.com/meglin234/stand-alone-vizzes/tree/main/DeBois_Recreation) 
 
 <p align="center">
   <img src="DeBois_Recreation/DeBois_Original.png" width="49%" title="Original">
