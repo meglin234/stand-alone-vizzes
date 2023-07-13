@@ -40,4 +40,4 @@ ggplot(df, aes(x = value, y = Year)) +
   )
 
 ## save plot 
-ggsave("DeBois_Recreation.png", width = 8, height = 12) 
+ggsave("DeBois_Recreation.png", width = 8, height = 10) 
