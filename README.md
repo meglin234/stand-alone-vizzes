@@ -5,7 +5,7 @@
 <summary> US Airport Network </summary>  
 </br>
 
-[Network visualization](https://meglin234.github.io/stand-alone-vizzes/US_Airport_Network/index.html) highlighting the betweenness centrality of the Anchorage airport, made with Gephi. 
+[Interactive network visualization](https://meglin234.github.io/stand-alone-vizzes/US_Airport_Network/index.html) highlighting the betweenness centrality of the Anchorage airport, made with Gephi. 
 
 </details>
 
